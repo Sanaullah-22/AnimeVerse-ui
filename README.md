@@ -53,7 +53,7 @@ anime-card-gallery/
 
 Clone the Repository
 
-git clone https://github.com/Sanaullah-22/anime-card-gallery.git
+git clone https://github.com/Sanaullah-22/AnimeVerse-ui.git
 
 
 Navigate to the Folder
